@@ -23,7 +23,5 @@ that properly by looking at the confusion matrix
 
 # How to run 
 * To run this project use kaggle API function to import the dataset
-* Now run the RESNET50 model part and it will stop at 11 epoch automatically because after that model will not learn and the fucntions will be called which stops it.
+* Now run the RESNET50 model part.
 * Now run the Gradio part code it will generate the localhost link.
-
-# Website
